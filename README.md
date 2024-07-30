@@ -1,5 +1,7 @@
 # OTel Java Demo
 
+![Title](.github/img.png)
+
 This repository contains a simple Java application that demonstrates how to use the 
 [Grafana OpenTelemetry Distribution for Java].
 
@@ -12,3 +14,5 @@ This repository contains a simple Java application that demonstrates how to use 
 docker compose build app
 docker compose up
 ```
+
+The application will be available at [http://localhost:8081](http://localhost:8081).
